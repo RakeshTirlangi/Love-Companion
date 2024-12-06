@@ -12,7 +12,7 @@ An AI-powered virtual companion using sophisticated language models to create pe
 Here’s how the app looks in action:  
 
 <div style="display: flex; gap: 10px;">
-  <img src="Images//lr-1.png" width="500">
+  <img src="Images//lc-1.png" width="500">
 </div>
 
 ## Key Features
