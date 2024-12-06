@@ -11,7 +11,7 @@ An AI-powered virtual companion using sophisticated language models to create pe
 ## 🎥 Demo  
 Here’s how the app looks in action:  
 
-<div style="display: flex; gap: 10px;">
+<div style="display: flex; gap: 10px; border-radius: 4px;">
   <img src="Images//lc-1.png" width="500">
 </div>
 
